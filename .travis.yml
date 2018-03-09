@@ -4,4 +4,4 @@ python:
   - "2.7"
 install: true
 script:
- - python test.py
+ - python Utilities/cpplint.py
